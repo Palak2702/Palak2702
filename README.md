@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Palak2702
+- 👋 Hi, I am Palak. From Jaipur,Rajasthan.
 - 👀 I’m interested in MERN Full Stack Development , Programming , Solving Problems 
 - 🌱 I’m currently learning MERN< DSA < 
 - 💞️ I’m looking to collaborate on open Sources projects
